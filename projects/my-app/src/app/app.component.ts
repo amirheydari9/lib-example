@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
-import {MyLibComponent} from "my-lib";
+import {MyLibComponent} from "@amir_heydari/my-lib";
 
 @Component({
   selector: 'app-root',

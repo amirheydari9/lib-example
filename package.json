@@ -7,10 +7,11 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "mylib-build": "ng build my-lib --watch"
+    "mylib-build": "ng build my-lib"
   },
   "private": true,
   "dependencies": {
+    "@amir_heydari/my-lib": "^0.0.4",
     "@angular/animations": "^17.0.0",
     "@angular/common": "^17.0.0",
     "@angular/compiler": "^17.0.0",
